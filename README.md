@@ -18,6 +18,10 @@
 
 我们欢迎大家积极参与，共同维护一个诚信、安全的交易环境。如果您有任何疑问或建议，欢迎通过issue或pull request与我们联系。
 
+## 📝 提交举报信息
+
+- [提交举报商家信息](https://github.com/GPTScam/GPTScam/issues/new?assignees=GPTScam&labels=&projects=&template=%E4%B8%BE%E6%8A%A5%E5%95%86%E5%AE%B6%E4%BF%A1%E6%81%AF.md&title=)
+
 ## 📝 举报内容提交注意事项
 
 在提交举报内容时，请遵循以下注意事项，以确保信息的准确性和有效性：
