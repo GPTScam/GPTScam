@@ -2,7 +2,7 @@
 
 欢迎来到 **GPTScam** 仓库！
 
-本仓库旨在记录市场中公开售卖ChatGPT、谷歌GCP、AWS、微软Azure等API或账号过程中存在诈骗、欺诈等违规行为的商家信息。我们希望通过这种方式，帮助广大用户避免上当受骗，并为维护市场的公平和透明贡献一份力量。
+本仓库旨在记录市场中公开售卖ChatGPT、谷歌GCP、AWS、微软Azure等API、中转或账号过程中存在诈骗、欺诈等违规行为的商家信息。我们希望通过这种方式，帮助广大用户避免上当受骗，并为维护市场的公平和透明贡献一份力量。
 
 <div align=center>
 <img src="https://github.com/user-attachments/assets/fdc6c50f-b631-4cda-bfe6-b1bf026a39ac" style="width: 200px;" />
