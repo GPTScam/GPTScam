@@ -93,7 +93,7 @@
       VX：1234<br>
       支付宝：1234<br>
       手机号：1234<br>
-      具体违规内容：<a href='https://github.com/aiearth-developer/GPTScam/issues'>issue</a>
+      具体违规内容：<a href='https://github.com/GPTScam/GPTScam/issues/2'>issue</a>
     </td>
   </tr>
 </table>
